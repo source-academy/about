@@ -1,3 +1,7 @@
+---
+title: Publications
+---
+
 # Publications
 
 Publications about Source Academy, its languages, and the tools built with it, by members of the community. All entries are in one BibTeX file: [source-academy.bib](source-academy.bib).
