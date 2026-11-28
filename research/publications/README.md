@@ -44,25 +44,10 @@ All four at SPLASH-E 2021, the ACM SIGPLAN International Symposium on SPLASH-E, 
 
 ## Technical reports
 
-### Specification of Source Languages
+The specifications of the languages, and the technical reports on their tools, are published with the language documentation, where they are kept up to date:
 
-- [Specification of Source §1](https://docs.sourceacademy.org/source_1.pdf)
-- [Specification of Source §2](https://docs.sourceacademy.org/source_2.pdf)
-- [Specification of Source §3](https://docs.sourceacademy.org/source_3.pdf)
-- [Specification of Source §4](https://docs.sourceacademy.org/source_4.pdf)
-
-- [Specification of Source §1 Lazy](https://docs.sourceacademy.org/source_1_lazy.pdf)
-- [Specification of Source §1 WebAssembly](https://docs.sourceacademy.org/source_1_wasm.pdf)
-- [Specification of Source §2 Lazy](https://docs.sourceacademy.org/source_2_lazy.pdf)
-- [Specification of Source §3 Non-Det](https://docs.sourceacademy.org/source_3_nondet.pdf)
-- [Specification of Source §3 Concurrent](https://docs.sourceacademy.org/source_3_concurrent.pdf)
-- [Specification of Source §4 GPU](https://docs.sourceacademy.org/source_4_gpu.pdf)
-
-### Other technical reports
-
-- [Specification of Source §1 Infinite Loop Detection](https://docs.sourceacademy.org/source_1_infinite_loop_detection.pdf)
-- [Specification of Source §2 Stepper](https://docs.sourceacademy.org/source_2_stepper.pdf)
-- [Specification of Source §3 Type Inference](https://docs.sourceacademy.org/source_3_type_inference.pdf)
+- [JavaScript (Source §1 to §4)](https://docs.sourceacademy.org/javascript/): the specifications of §1 to §4 and of their variants (typed, WebAssembly, explicit-control), and the reports on infinite-loop detection, the stepper and type inference.
+- [Python (§1 to §4)](https://docs.sourceacademy.org/python/): the specifications of §1 to §4, and the reports on the steppers.
 
 ## How to cite
 
