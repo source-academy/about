@@ -32,8 +32,33 @@ All four at SPLASH-E 2021, the ACM SIGPLAN International Symposium on SPLASH-E, 
 
 ## Demos and talks
 
-- Martin Henz. _Source Academy: A Web-based Environment for Learning Programming with SICP_. Demonstration at the SIGCSE Technical Symposium 2023, Toronto. [DOI](https://doi.org/10.1145/3545947.3573232) ([conference page](https://sigcse2023.sigcse.org/details/sigcse-ts-2023-demos/6/Source-Academy-A-Web-based-Environment-for-Learning-Programming-with-SICP)).
+- Martin Henz. _Source Academy: A Web-based Environment for Learning Programming with SICP_. Demonstration at the SIGCSE Technical Symposium 2023, Toronto, 16 March 2023. [DOI](https://doi.org/10.1145/3545947.3573232) ([conference page](https://sigcse2023.sigcse.org/details/sigcse-ts-2023-demos/6/Source-Academy-A-Web-based-Environment-for-Learning-Programming-with-SICP)), [demo description](https://www.comp.nus.edu.sg/~henz/publications/pdf/SIGCSETSDEMO.pdf), [video](https://www.youtube.com/watch?v=s_UPhAT25fo).
 - Martin Henz. _"Early X or Late X" Questions for Discussing Curricular Practices in CS1 and CS2_. Lightning talk at the SIGCSE Technical Symposium 2023, Toronto. [DOI](https://doi.org/10.1145/3545947.3573240).
+- Martin Henz. _Xtreme Shrinking of JS for Teaching_. [XtremeJS 2022](https://xtremejs.dev/2022/schedule/), 13 December 2022. [Slides with links](https://www.comp.nus.edu.sg/~henz/publications/pdf/Xtreme_Shrinking.pdf), [video](https://www.youtube.com/watch?v=GGnZoB3Bekg).
+- Martin Henz. _Meaningful online learning experiences with Source Academy_. [Experiential Learning Seminar Series](https://www.cetl.hku.hk/elseminar22/), Centre for the Enhancement of Teaching and Learning, University of Hong Kong, 2 June 2022. [Slides](https://www.comp.nus.edu.sg/~henz/publications/pdf/meaningful_online_learning.pdf).
+- Martin Henz. [_Shrinking JavaScript for an SICP-based First-Year Course_](https://www.csail.mit.edu/event/martin-henz-shrinking-javascript-sicp-based-first-year-course). MIT CSAIL Seminar, 7 March 2022. [Slides](https://www.comp.nus.edu.sg/~henz/publications/pdf/Shrinking_JavaScript_Slides.pdf), [video](https://youtu.be/NnuQfEekKGg).
+
+## Technical reports
+
+### Specification of Source Languages
+
+- [Specification of Source §1](https://docs.sourceacademy.org/source_1.pdf)
+- [Specification of Source §2](https://docs.sourceacademy.org/source_2.pdf)
+- [Specification of Source §3](https://docs.sourceacademy.org/source_3.pdf)
+- [Specification of Source §4](https://docs.sourceacademy.org/source_4.pdf)
+
+- [Specification of Source §1 Lazy](https://docs.sourceacademy.org/source_1_lazy.pdf)
+- [Specification of Source §1 WebAssembly](https://docs.sourceacademy.org/source_1_wasm.pdf)
+- [Specification of Source §2 Lazy](https://docs.sourceacademy.org/source_2_lazy.pdf)
+- [Specification of Source §3 Non-Det](https://docs.sourceacademy.org/source_3_nondet.pdf)
+- [Specification of Source §3 Concurrent](https://docs.sourceacademy.org/source_3_concurrent.pdf)
+- [Specification of Source §4 GPU](https://docs.sourceacademy.org/source_4_gpu.pdf)
+
+### Other technical reports
+
+- [Specification of Source §1 Infinite Loop Detection](https://docs.sourceacademy.org/source_1_infinite_loop_detection.pdf)
+- [Specification of Source §2 Stepper](https://docs.sourceacademy.org/source_2_stepper.pdf)
+- [Specification of Source §3 Type Inference](https://docs.sourceacademy.org/source_3_type_inference.pdf)
 
 ## How to cite
 
