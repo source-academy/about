@@ -8,6 +8,8 @@ The Source Academy and SICP JS are used for educational research. Below you find
 
 ## Publications
 
+A curated list of publications about Source Academy, with advice on how to cite them and a BibTeX file, is on the [publications page](publications/).
+
 - [Visualizing Environments of Modern Scripting Languages](https://www.comp.nus.edu.sg/~henz/publications/#csedu2023.abstract). Kaian Cai, Martin Henz, Kok-Lim Low, Xing Yu Ng, Jing Ren Soh, Kyn-Han Tang, and Kar Wi Toh. Proceedings of the 2023 Proceedings of the 2023 International Conference on Computer Supported Education (CSEDU 2023), Prague, Czech Republic. April 2023.
 - [Community-driven Course and Tool Development for CS1](https://www.comp.nus.edu.sg/~henz/publications/#sigcsets2023.abstract). Boyd Anderson, Martin Henz, Kok-Lim Low. Proceedings of the 2023 ACM SIGCSE Technical Symposium on Computer Science Education (SIGCSE TS 2023), ACM, New York, NY, United States. March 2023. 
 - [Teachable Moments in Functional Audio Processing](https://www.comp.nus.edu.sg/~henz/publications/index.html#splasheteachable2021.abstract). Martin Henz, Shang-Hui Koh, Samyukta Sounderraman. Proceedings of the 2021 ACM SIGPLAN International SPLASH-E Symposium (SPLASH-E '21), ACM, New York, NY, United States. 20 Oct 2021.
