@@ -35,9 +35,9 @@ Educators who have used the original Scheme-based SICP book may appreciate our [
 ## Resources for educators who use [Source Academy @ NUS](https://sourceacademy.nus.edu.sg/)
 
 - Register as instructor: send an email to [source.academy.nus@gmail.com](mailto:source.academy.nus@gmail.com)
-- [Guide for authoring and uploading assessments](assessment/README.md): homework submissions stored on the **Source Academy @ NUS** or any other Source Academy server, graded by you and your assistants or auto-graded
-- [Guide for managing contest voting](voting/README.md): setup for students to vote for the most popular submissions in a contest 
-- [Guide for setting up a Source Academy game](game/README.md): game provides context for homework assignments
+- [Guide for authoring and uploading assessments](../educator/assessment/README.md): homework submissions stored on the **Source Academy @ NUS** or any other Source Academy server, graded by you and your assistants or auto-graded
+- [Guide for managing contest voting](../educator/voting/README.md): setup for students to vote for the most popular submissions in a contest 
+- [Guide for setting up a Source Academy game](../educator/game/README.md): game provides context for homework assignments
 
 ## Courses using SICP JS and Source Academy
 
