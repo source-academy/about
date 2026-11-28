@@ -14,13 +14,13 @@ In general, it should be simple to integrate any service that supports the OAuth
 need to write an authentication provider that receives the authorisation code and then exchanges it for a authorisation
 token, and retrieves the user's username, name, and role via API calls or by extracting it from the token.
 
-See our [LumiNUS authentication
-provider](https://github.com/source-academy/backend/blob/master/lib/cadet/auth/providers/luminus.ex) for an example.
+See our [GitHub authentication
+provider](https://github.com/source-academy/backend/blob/master/lib/cadet/auth/providers/github.ex) for an example.
 
 If your authentication provider supports OpenID Connect and exposes an OpenID discovery document, then most of this is
 handled for you via the OpenID authentication provider; you will only need to write an extractor that, given the access
 token, returns the user's username, name, and role. See our [Cognito claim
-extractor](https://github.com/source-academy/backend/blob/master/lib/cadet/auth/providers/cognito_claim_extractor.ex) for
+extractor](https://github.com/source-academy/backend/blob/master/lib/cadet/auth/providers/openid/cognito_claim_extractor.ex) for
 an example.
 
 ## Google
